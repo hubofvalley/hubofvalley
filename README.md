@@ -1,4 +1,7 @@
-# Welcome to hubofvalley, a valley of Proof Of Stake Validator! 🚀
+![image](https://github.com/hubofvalley/hubofvalley/assets/100946299/8afee337-c269-4885-b9ac-84df0ed5f4c5)
+
+
+# Welcome to hubovalley
 
 ## About Me
 Hey there, I'm Baconvalley, a fervent Proof of Stake Validator delving deep into the intricate web of decentralized networks. With an unwavering commitment to securing and validating transactions, I proudly carry the mantle of a Proof of Stake Validator. Join me as we navigate the complexities of blockchain technology and uphold the pillars of trust and security in the digital realm!
