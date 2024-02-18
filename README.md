@@ -1,7 +1,10 @@
-![image](https://github.com/hubofvalley/hubofvalley/assets/100946299/8afee337-c269-4885-b9ac-84df0ed5f4c5)
+<div style="text-align:center;">
+    <img src="https://github.com/hubofvalley/hubofvalley/assets/100946299/8afee337-c269-4885-b9ac-84df0ed5f4c5" alt="Your Image">
+</div>
 
-
-# Welcome to hubovalley
+<div style="text-align:center;">
+    <h1>Welcome to Grand Valley's kitchen</h1>
+</div>
 
 ## About Me
 Hey there, I'm Baconvalley, a fervent Proof of Stake Validator delving deep into the intricate web of decentralized networks. With an unwavering commitment to securing and validating transactions, I proudly carry the mantle of a Proof of Stake Validator. Join me as we navigate the complexities of blockchain technology and uphold the pillars of trust and security in the digital realm!
@@ -14,5 +17,3 @@ However, the significance transcends mere blocks and chains; it's about spearhea
 
 ## Let's Connect!
 🚀 Embark on this exhilarating journey with me through the vast cosmos of blockchain technology, where innovation knows no limits and each validation marks a monumental triumph for decentralization. Together, let's forge a future where trust is unshakeable, and the horizons of possibility are boundless. Join hands as we pioneer a realm where the potential for growth and advancement knows no bounds!
-
-Ready to stake your claim in the decentralized frontier? Let's connect and explore the limitless potential of Proof of Stake! 
