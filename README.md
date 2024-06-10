@@ -1,6 +1,6 @@
-<div style="text-align:center;">
-    <img src="https://github.com/hubofvalley/hubofvalley/assets/100946299/8afee337-c269-4885-b9ac-84df0ed5f4c5" alt="Your Image">
-</div>
+<p align="center">
+  <img src="https://github.com/hubofvalley/hubofvalley/assets/100946299/8afee337-c269-4885-b9ac-84df0ed5f4c5" alt="Your Image">
+</p>
 
 <div style="text-align:center;">
     <h1>Welcome to Grand Valley's kitchen</h1>
