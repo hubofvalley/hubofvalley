@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://github.com/hubofvalley/hubofvalley/assets/100946299/af8d9314-b51f-47dc-b437-f06d137b30be" alt="GRAND VALLEY-circle">
+  <img src="https://github.com/hubofvalley/hubofvalley/assets/100946299/9b0c50fe-6798-4c24-8271-4a18443cba54" alt="fix">
 </p>
-
-
-
 
 <div style="text-align:center;">
     <h1>Welcome to Grand Valley's kitchen</h1>
