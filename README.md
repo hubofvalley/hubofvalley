@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/hubofvalley/hubofvalley/assets/100946299/4119a98f-2b49-41ad-9b49-b14ffa017281" alt="GRAND VALLEY-circle">
+  <img src="https://github.com/hubofvalley/hubofvalley/assets/100946299/af8d9314-b51f-47dc-b437-f06d137b30be" alt="GRAND VALLEY-circle">
 </p>
+
+
 
 
 <div style="text-align:center;">
