@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/hubofvalley/hubofvalley/assets/100946299/9b0c50fe-6798-4c24-8271-4a18443cba54" alt="fix">
-</p>
+
+![fix gif](https://github.com/user-attachments/assets/9086aae1-2365-4a74-9c19-00a10a7e618d)
 
 <div style="text-align:center;">
     <h1>Welcome to Grand Valley's kitchen</h1>
