@@ -2,7 +2,7 @@
 ![fix gif](https://github.com/user-attachments/assets/9086aae1-2365-4a74-9c19-00a10a7e618d)
 
 <div style="text-align:center;">
-    <h1>Welcome to Grand Valley's kitchen</h1>
+    <h1>Welcome to Hub of Valley</h1>
 </div>
 
 ## About Me
