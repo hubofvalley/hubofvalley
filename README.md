@@ -7,9 +7,7 @@
     <h1>Welcome to Hub of Valley</h1>
 </div>
 
-```Hub of Valley is the official GitHub account of Grand Valley, serving as a comprehensive repository for all mechanisms and critical information related to the validator nodes that Grand Valley currently operates or has managed in the past. This repository provides detailed insights into the technical infrastructure, configuration, and performance metrics of these validator nodes, which are central to securing and maintaining the integrity of the blockchain network. By ensuring transparency, Hub of Valley offers a centralized platform for tracking the evolution and operational efficiency of Grand Valley’s validator ecosystem, contributing to its standing as a leading player in the Proof-of-Stake (PoS) landscape.```
-
----
+`Hub of Valley is the official public services of Grand Valley, serving as a comprehensive repository for all mechanisms and critical information related to the validator nodes that Grand Valley currently operates or has managed in the past. This repository provides detailed insights into the technical infrastructure, configuration, and performance metrics of these validator nodes, which are central to securing and maintaining the integrity of the blockchain network. By ensuring transparency, Hub of Valley offers a centralized platform for tracking the evolution and operational efficiency of Grand Valley’s validator ecosystem, contributing to its standing as a leading player in the Proof-of-Stake (PoS) landscape.`
 
 ## About Me
 
