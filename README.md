@@ -1,5 +1,7 @@
 
-![fix gif](https://github.com/user-attachments/assets/9086aae1-2365-4a74-9c19-00a10a7e618d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9086aae1-2365-4a74-9c19-00a10a7e618d" alt="" width="600" height="300">
+</p>
 
 <div style="text-align:center;">
     <h1>Welcome to Hub of Valley</h1>
