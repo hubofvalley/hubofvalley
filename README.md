@@ -22,7 +22,7 @@ Equipped with cryptographic expertise and an unyielding commitment to decentrali
 However, my role extends far beyond mere blocks and chains; it's about spearheading a transformative era of financial autonomy and empowerment. Through my role as a Validator, I am actively shaping the landscape of decentralized finance, paving the way for a future where financial sovereignty is accessible to all. With every block validated, I am propelling the evolution of decentralized finance, one step at a time.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d786a69-6d92-49b7-99a0-417b3e85f292" alt="letsbuidltogether" width="600" height="300">
+  <img src="https://github.com/user-attachments/assets/1d786a69-6d92-49b7-99a0-417b3e85f292" alt="letsbuidltogether" width="800" height="400">
 </p>
 
 ## Let's Connect!
