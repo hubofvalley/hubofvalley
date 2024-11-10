@@ -21,7 +21,11 @@ Equipped with cryptographic expertise and an unyielding commitment to decentrali
 
 However, my role extends far beyond mere blocks and chains; it's about spearheading a transformative era of financial autonomy and empowerment. Through my role as a Validator, I am actively shaping the landscape of decentralized finance, paving the way for a future where financial sovereignty is accessible to all. With every block validated, I am propelling the evolution of decentralized finance, one step at a time.
 
+<p align="center">
+  <img src="assets/grandvalley-banner.gif" alt="letsbuidltogether" width="600" height="300">
+</p>
+
+
 ## Let's Connect!
 
 🚀 Embark on this exhilarating journey with me through the vast cosmos of blockchain technology, where innovation knows no limits and each validation marks a monumental triumph for decentralization. Together, let's forge a future where trust is unshakeable, and the horizons of possibility are boundless. Join hands as we pioneer a realm where the potential for growth and advancement knows no bounds!
-
