@@ -43,6 +43,10 @@ If you’re a developer looking for a partner who understands both the technical
 
 ---
 
+> *Side note: Grand Valley's porto is still on GitHub for now – but the dedicated website is coming soon. Let's pray for it to happen together! :)*
+
+---
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1d786a69-6d92-49b7-99a0-417b3e85f292" alt="letsbuidltogether" width="800" height="400">
 </p>
