@@ -1,25 +1,47 @@
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9086aae1-2365-4a74-9c19-00a10a7e618d" alt="" width="600" height="300">
 </p>
 
-<div style="text-align:center;">
-    <h1>Welcome to Hub of Valley</h1>
+<div align="center">
+  <h1>Welcome to Hub of Valley</h1>
 </div>
 
-`Hub of Valley is the official public services of Grand Valley, serving as a comprehensive repository for all mechanisms and critical information related to the validator nodes that Grand Valley currently operates or has managed in the past. This repository provides detailed insights into the technical infrastructure, configuration, and performance metrics of these validator nodes, which are central to securing and maintaining the integrity of the blockchain network. By ensuring transparency, Hub of Valley offers a centralized platform for tracking the evolution and operational efficiency of Grand Valley’s validator ecosystem, contributing to its standing as a leading player in the Proof-of-Stake (PoS) landscape.`
+Hub of Valley is your one-stop resource for everything related to Grand Valley’s validator ecosystem. We provide robust validator services across multiple networks, and we’re proud to be the genesis validator on Namada and Story Protocol – with many more collaborations on the horizon!
+
+---
 
 ## About Me
 
-Greetings, I am Baconvalley (Grand Valley #1), a dedicated Proof of Stake Validator deeply engaged in the intricate web of decentralized networks. With an unwavering commitment to securing and validating transactions, I proudly uphold the mantle of a Proof of Stake Validator. Join me as I navigate the complexities of blockchain technology and champion the pillars of trust and security in the digital realm.
+I’m Baconvalley (Grand Valley #1), a dedicated validator committed to the technical and community aspects of running a secure network. Beyond simply managing nodes, I actively engage with the community because I believe a validator’s true strength lies in both maintaining the network’s integrity and fostering a vibrant, informed community of developers and users.
+
+---
 
 ## What I Do
 
-Equipped with cryptographic expertise and an unyielding commitment to decentralization, I stand as a steadfast guardian of trust within the digital landscape. Each block I validate not only fortifies the network's resilience and security but also serves as a testament to my unwavering dedication. Furthermore, I have taken it upon myself to craft comprehensive documentation aimed at empowering and guiding countless individuals in their journey to establish and operate their own nodes.
+- **Node Operation & Management:** I ensure every block is validated with precision, keeping our networks secure and resilient.
+- **Community Engagement:** I’m always available to share insights, provide support, and empower developers to deploy and manage their own nodes.
+- **Innovative Tools:** Grand Valley is not just about running nodes—we’ve built tools like *Valley of Story (VoS)*, *Valley of Namada (VoN)*, *Valley of 0G (Vo0G)*, and more. These bash-script utilities are designed to help users interact with their nodes through a simple CLI, making node operations accessible even for beginners.
+- **Public Infrastructure Services:** In addition to validator operations, we offer RPC services and other public endpoint tools (our EVM-RPCs have been listed in [chainlist](http://chainlist.org/)). Explore our [Testnet Guides](https://github.com/hubofvalley/Testnet-Guides/tree/main) and [Mainnet Guides](https://github.com/hubofvalley/Mainnet-Guides/tree/main) to learn more about our comprehensive services.
+
+---
 
 ## My Mission
 
-However, my role extends far beyond mere blocks and chains; it's about spearheading a transformative era of financial autonomy and empowerment. Through my role as a Validator, I am actively shaping the landscape of decentralized finance, paving the way for a future where financial sovereignty is accessible to all. With every block validated, I am propelling the evolution of decentralized finance, one step at a time.
+I’m here to lead by example—providing not only a reliable validator service but also creating a community where developers and users can collaborate, innovate, and build the future of decentralized networks. Every block validated is a step forward in our journey toward a more open and decentralized digital landscape. 
+
+If you’re a developer looking for a partner who understands both the technical and community-driven sides of blockchain, let’s buidl together! I’m ready to take on new challenges as your genesis validator.
+
+---
+
+## Mainnet Validator Profiles
+
+- **Namada Mainnet Validator:**  
+  [View Profile](https://namada.valopers.com/validators/tnam1qyplu8gruqmmvwp7x7kd92m6x4xpyce265fa05r6)
+
+- **Story Protocol Mainnet Validator:**  
+  [View Profile](https://storyscan.app/validators/storyvaloper1q2vd9hdp2p4qtplty7vh9nmupenv2xn0turd4p)
+
+---
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1d786a69-6d92-49b7-99a0-417b3e85f292" alt="letsbuidltogether" width="800" height="400">
@@ -27,4 +49,5 @@ However, my role extends far beyond mere blocks and chains; it's about spearhead
 
 ## Let's Connect!
 
-🚀 Embark on this exhilarating journey with me through the vast cosmos of blockchain technology, where innovation knows no limits and each validation marks a monumental triumph for decentralization. Together, let's forge a future where trust is unshakeable, and the horizons of possibility are boundless. Join hands as we pioneer a realm where the potential for growth and advancement knows no bounds!
+Join me on this exciting journey through the realms of blockchain technology. Whether you’re interested in robust validator services, innovative node management tools, or simply passionate about decentralization, let’s buidl together. Your next breakthrough in blockchain development starts here!
+
