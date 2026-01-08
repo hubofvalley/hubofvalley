@@ -6,7 +6,7 @@
   <h1>Welcome to Hub of Valley</h1>
 </div>
 
-Hub of Valley is your one-stop resource for everything related to Grand Valley’s validator ecosystem. I provide robust validator services across multiple networks, and I'm proud to be the genesis validator on Namada and Story Protocol – with many more collaborations on the horizon!
+Hub of Valley is your one-stop resource for everything related to Grand Valley’s validator ecosystem. I provide robust validator services across multiple networks, and I'm proud to be the genesis validator on Namada and Story Protocol – with many more collaborations on the horizon! 
 
 ---
 
@@ -40,6 +40,9 @@ If you’re a developer looking for a partner who understands both the technical
 
 - **Story Protocol Mainnet Validator:**  
   [View Profile](https://storyscan.app/validators/storyvaloper1q2vd9hdp2p4qtplty7vh9nmupenv2xn0turd4p)
+
+- **0G Mainnet Validator:**  
+  [View Profile](https://explorer.0g.ai/app/validators/0x108e619da0cdba8a301a53948a4acc23a3d79377/delegators)
 
 ---
 
