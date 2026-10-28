@@ -1,0 +1,34 @@
+name: Refresh profile cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Generate cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 -I .github/scripts/gen_profile_cards.py
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- assets/stats.svg assets/langs.svg assets/streak.svg; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "Grand Valley"
+          git config user.email "100946299+hubofvalley@users.noreply.github.com"
+          git add assets/stats.svg assets/langs.svg assets/streak.svg
+          git commit -m "chore: refresh profile cards"
+          git push
