@@ -18,7 +18,7 @@
 
 ---
 
-## 🧭 Find Your Way
+## Find Your Way
 
 | You are | Start with |
 |---|---|
@@ -26,7 +26,7 @@
 | **Setting up your own node** | [Valley toolkits](#-valley-toolkits) · [Testnet Guides](https://github.com/hubofvalley/Testnet-Guides) · [Mainnet Guides](https://github.com/hubofvalley/Mainnet-Guides) |
 | **Bringing a network to life** and need an operator | [Email us](mailto:letsbuidltogether@grandvalleys.com) |
 
-## 🛠️ Our Work
+## Our Work
 
 | Focus | How we deliver it |
 |---|---|
@@ -36,7 +36,7 @@
 | **Watching the stack** | Prometheus, Grafana, Loki, Alertmanager, Grafana Alloy, Node Exporter and Blackbox Exporter. |
 | **Sharing knowledge** | Explainers and calculators on [grandvalleys.com](https://grandvalleys.com) and [Medium](https://medium.com/@grandvalley). |
 
-## 🔭 Under the Hood
+## Under the Hood
 
 ```mermaid
 flowchart TB
@@ -72,7 +72,7 @@ flowchart TB
 
 Metrics, probes and logs land in one place. Dashboards show what is happening, and alert rules decide who hears about it.
 
-## 🌐 Valley Toolkits
+## Valley Toolkits
 
 Every network gets its own toolkit, with a menu-driven launcher and its own documentation.
 
@@ -90,7 +90,7 @@ Every network gets its own toolkit, with a menu-driven launcher and its own docu
 
 **Good habits:** read any script before running it, run it as the regular user that owns the node (never root), keep keys and mnemonics to yourself, and rehearse changes on a non-validator node first.
 
-## 📈 Contribution Pulse
+## Contribution Pulse
 
 <div align="center">
 
@@ -103,7 +103,7 @@ Every network gets its own toolkit, with a menu-driven launcher and its own docu
 
 <sub>Generated from public GitHub data by a scheduled workflow in this repository, refreshed daily.</sub>
 
-## 💌 Say Hello
+## Say Hello
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1d786a69-6d92-49b7-99a0-417b3e85f292" alt="Let's Buidl Together" width="800" height="400">
